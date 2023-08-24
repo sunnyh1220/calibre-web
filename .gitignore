@@ -1,0 +1,15 @@
+.idea
+
+.vscode
+
+# Calibre Server
+/config/calibre-server/
+
+# Calibre Wed
+/config/calibre-web/
+
+# Calibre Library
+/library/*
+
+# Auto add books
+/autoaddbooks/*
